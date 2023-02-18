@@ -5,8 +5,8 @@ URL- [https://baker-bret.github.io/Password-Generator/](y)
 An application that uses JavaScript to generate a secure password.
 
 ## Installation
--Setup HTML with CSS
--Write JavaScript for funcitonality
+* Setup HTML with CSS
+* Write JavaScript for funcitonality
 
 
 ## Credits
