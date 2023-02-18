@@ -1,5 +1,5 @@
 # Password-Generator
-URL- [https://baker-bret.github.io/Password-Generator/](y)
+URL- [baker-bret.github.io/Password-Generator/](y)
 ## Description
 
 An application that uses JavaScript to generate a secure password.
@@ -10,7 +10,7 @@ An application that uses JavaScript to generate a secure password.
 
 
 ## Credits
-Bret Baker-[https://github.com/baker-bret](y)
+Bret Baker-[github.com/baker-bret](y)
 
 
 
